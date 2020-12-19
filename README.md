@@ -6,7 +6,7 @@ This simple note taking application allows you to save notes with a title and pl
 
 ## Installing:
 
-Run `npm install` to install all dependencies. To use the application locally, run `node server.js` in your CLI, and then open `http://localhost:3000` in your preferred browswer. The Note Taker app is [live on Heroku]() for you to use as well.
+Run `npm install` to install all dependencies. To use the application locally, run `node server.js` in your CLI, and then open `http://localhost:3000` in your preferred browswer. 
 
 ## Preview:
 ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/71414528/102697088-d1eaaa00-41e7-11eb-9314-9fd582b0b7be.gif)
